@@ -15,21 +15,25 @@ Waarden: Wit, Lichtbruin, Waldkorn
 [OptieWaarde]
 Naam: Type#Ontbijtmand
 Waarde: Standaard
+[Product]
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
 [OptieWaarde]
 Naam: Type#Ontbijtmand
 Waarde: Familie
+[Product]
 Beschrijving: stokbroodje, sandwich, 3 mini boterkoeken, kaas, h...
 ===
 [OptieWaarde]
 Naam: Type#Ontbijtmand
 Waarde: VIP
+[Product]
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
 [OptieWaarde]
 Naam: Type#Ontbijtmand
 Waarde: Luxe
+[Product]
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
 Naam: Kaas
