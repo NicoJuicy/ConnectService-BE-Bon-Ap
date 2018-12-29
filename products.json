@@ -1,5 +1,5 @@
 Naam: Kaas
-Optie:[Brood:wit,bruin,meergranen]
+Optie[Brood:*]
 Optie:[Kaas:jong,Brie,Camembert]
 Tag:Belegde Broodjes
 ===
@@ -488,6 +488,20 @@ Tag: Dranken
 Naam: Flesje ( 33 cl)
 Optie:[Type#drank-flesje ( 33 cl): plat water, bruisend water]
 Tag: Dranken
+===
+[Optie]
+Naam: Brood
+Waarden: Sandwich, Mini, Midi, Maxi
+===
+[Optie]
+Naam:Grootte
+Voorwaarde: [Brood:Sandwich]
+Waarden: Wit
+===
+[Optie]
+Naam: Grootte
+Voorwaarde: [Brood: Mini, Midi, Maxi]
+Waarden: Wit, Lichtbruin, Waldkorn
 ===
 [Optie]
 Naam: Type-Ontbijtmand
