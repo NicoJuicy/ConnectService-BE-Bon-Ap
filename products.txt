@@ -13,22 +13,22 @@ Voorwaarde: [Brood: Mini, Midi, Maxi]
 Waarden: Wit, Lichtbruin, Waldkorn
 ===
 [Optie]
-Naam: Type-Ontbijtmand
+Naam: Type#Ontbijtmand
 Optie: Standaard
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
 [Optie]
-Naam: Type-Ontbijtmand
+Naam: Type#Ontbijtmand
 Optie: Familie
 Beschrijving: stokbroodje, sandwich, 3 mini boterkoeken, kaas, h...
 ===
 [Optie]
-Naam: Type-Ontbijtmand
+Naam: Type#Ontbijtmand
 Optie: VIP
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
 [Optie]
-Naam: Type-Ontbijtmand
+Naam: Type#Ontbijtmand
 Optie: Luxe
 Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
 ===
