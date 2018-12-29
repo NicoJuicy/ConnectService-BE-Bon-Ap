@@ -1,1 +1,510 @@
-
+Naam: Kaas
+Optie:[Brood:wit,bruin,meergranen]
+Optie:[Kaas:jong,Brie,Camembert]
+Tag:Belegde Broodjes
+===
+Naam: Bon Appétit Light
+Beschrijving:dressing, light kaas, waterkers, tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Martino
+Beschrijving: prépare, augurk, tomaat, ui, martinosaus
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Hawai 
+Beschrijving: kipfilet, ananas, sla, tomaat, cocktailsaus 
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: 
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kaas (Mozzarella)
+Beschrijving: tomaat, pesto
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kaas/Hesp
+Optie:[Brood:*]
+Optie:[Kaas:jong,Brie,Camembert]
+Tag:Belegde Broodjes
+===
+Naam: Hesp
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Pita
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Vleessla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Griekse sla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Provencale
+Beschrijving: mozarella, tomaat, rauwe hesp, pesto
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kipsla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kip curry
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kippenfilet
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Vegetarisch
+Beschrijving: sla, wortel, komkommer, tomaat, rode biet, cresson
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Préparé
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Martino met ansjovis 
+Beschrijving: préparé, augurk, tomaat, ansjovis, martinosaus, ...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Choco
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Eiersla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Omelet
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Post 
+Beschrijving: spek met eieren
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Tonijnsla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Tonijn pikant
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Tonijntino 
+Beschrijving: tonijnsla, martinosaus, ui, augurk, tomaat, ansjov...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Mexicano 
+Beschrijving: hot shot saus, mexicano, sla, tomaat, ui
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Gerookte zalm maison 
+Beschrijving: effi kruiden, zalmsneden, cresson, tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Ongezond 
+Beschrijving: fricandon, mayonaise, ketchup, augurk, geroosterde...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Krabsla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Zalmsla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Gerookte zalm 
+Beschrijving: zalmsneden
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Grijze garnaalsla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Langoustinesla in cocktail
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Scampi look
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Geboterd broodje
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Gebakken kip
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Maison 
+Beschrijving: kaas, hesp, wortel, ei, komkommer, sla, tomaat, co...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Bon appetit 
+Beschrijving: kaas, mosterdsaus, augurk, sla, tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Club Special 
+Beschrijving: kippenwit, cocktailsaus, sla, tomaat, wortel, komk...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Gezond 
+Beschrijving: sla, wortel, komkommer, tomaat, ei
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Waldorf 
+Beschrijving: brie, honing, notenmix, sla
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Argenteuille 
+Beschrijving: hesp, cocktailsaus, sla, tomaat, asperges
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: L'Indienne 
+Beschrijving: gebakken kip, currysaus, tomaat, ei, cresson
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Oriëntal 
+Beschrijving: kip curry, ananas, cresson
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Diabolique 
+Beschrijving: fricandon, mayonaise, ui, sla, wortel, komkommer, ...
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Préparé special 
+Beschrijving: préparé, pesto, zongedroogde tomaten, cresson
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Bonzaï 
+Beschrijving: gebakken kip, hot shot saus, sla, wortel, augurk
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Canada
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Broodje slank 
+Beschrijving: effi kruiden/natuur, paprika, cresson, tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Camembert maison 
+Beschrijving: camembert, mosterdsaus, cresson, tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Light kaas
+Beschrijving: milner
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Effi kruiden
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Rauwe hesp
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Pita pikant
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Confituur
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Speculoospasta
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Zalm deluxe 
+Beschrijving: eiersalade,gerookte zalm,ui
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Tonijnmet perzik
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Aardappelsla 
+Beschrijving: aardappelsla,hesp,sla,tomaat,ei
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Hawai extra 
+Beschrijving: Gebakken kip,coctailsaus,sla,tomaat ananas
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: frikandon 
+Beschrijving: huisbereide frikandon
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: B.B.Q Kip
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Zalm op griekse wijze 
+Beschrijving: gerookte zalm,tzatzikie,cresson,tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Scampi Diabolique
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Mozzarella Special 
+Beschrijving: mozzarella,zongedroogde tomaten,pesto,cresson,
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===                       =============================================================================
+Naam: Krokante kippenfilet 
+Beschrijving: gefrituurd,¨inclusief 1 saus naar keuze
+Optie:[Brood:*]
+Optie:[Saus:*]
+Tag:Belegde Broodjes
+===
+Naam: Hamburger 
+Beschrijving: Mini stokbrood met saus naar keuze #(of met beleg mi...)
+Optie:[Brood:*]
+Optie:[Saus:*]
+Tag:Belegde Broodjes
+===
+Naam: Broodje met gehaktballetjes 
+Beschrijving: kippenballetjes in een pittige roomsaus
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Club Special extra 
+Beschrijving: gebakken kip,coctailsaus,smos
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Hesp Special 
+Beschrijving: aardappelsla,hesp,sla,tomaat
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Kabeljauwsalade
+Optie:[Brood:*]
+Tag:Belegde Broodjes
+===
+Naam: Russisch ei
+Tag:Salades
+===
+Naam: Spekjessalade
+Tag:Salades
+===
+Naam: Salade Niçoise
+Tag:Salades
+===
+Naam: Salade gezond 
+Beschrijving: groenten en fruit
+Tag:Salades
+===
+Naam: Salade Hesp/asperge
+Tag:Salades
+===
+Naam: Griekse salade 
+Beschrijving: feta, olijven...
+Tag:Salades
+===
+Naam: Salade Niçoise
+Tag:Salades
+===
+Naam: Sla kip appel
+Tag:Salades
+===
+Naam: Sla kip ananas
+Tag:Salades
+===
+Naam: Griekse salade met kip
+Tag:Salades
+===
+Naam: Salade met gerookte zalm
+Beschrijving: sneden
+Tag:Salades
+===
+Naam: Salade met scampi's
+Tag:Salades
+===
+Naam: Salade met mozzarella
+Tag:Salades
+===
+Naam: Salade Geitenkaas 
+Beschrijving: Geitenkaas met een spekjasje
+Tag:Salades
+===
+Naam: Salade met Americain 
+Beschrijving: Prepare
+Tag:Salades
+===
+Naam: Frikandelrol
+Beschrijving: worstenbroodje
+Tag:Warme gerechten
+===
+Naam: Verse soep met brood 1/2L
+Tag:Warme gerechten
+===
+Naam: Verse soep met brood 1L
+Tag:Warme gerechten
+===
+Naam: Bekertje soep
+Tag:Warme gerechten
+===
+Naam: Spaghetti 
+Optie:[Soort-Spaghetti:Bolognaise,Bon Appetit,Ham en Kaas]
+Tag:Warme gerechten
+===
+Naam: Lasagne bolognaise met brood
+Tag:Warme gerechten
+===
+Naam: Spiegelei
+Tag:Omeletten
+===
+Naam: Roerei 
+Beschrijving: gratis half stokbrood naar keuze, licht bruin of w...
+Optie:[Brood:wit, bruin, meergranen]
+Tag:Omeletten
+===
+Naam: Boerenomelet 
+Beschrijving: spek,champignon,kaas,tomaat,ui,
+Tag:Omeletten
+===
+Naam: Omelet natuur
+Tag:Omeletten
+===
+Naam: Panini à L'indienne 
+Beschrijving: kipfilet, mozzarella, currysaus, tomaat
+Tag:Panini's
+===
+Naam: Panini Philadelphia 
+Beschrijving: zalm, kruiden, philadelphia, tomaten
+Tag: Panini's
+===
+Naam: Panini Provençale 
+Beschrijving: rauwe hesp, tomaten, mozzarella
+Tag: Panini's
+===
+Naam: Panini Hawai 
+Beschrijving: kaas, hesp, ananas
+Tag: Panini's
+===
+Naam: Panini maison 
+Beschrijving: mozarella, kaas, hesp, ananas, tomaten
+Tag: Panini's
+===
+Naam: Panini naar keuze met garnituur
+Tag: Panini's
+===
+Naam: Panini Tonijn 
+Beschrijving: mozarella, tonijn,tomaat,pesto
+Tag: Panini's
+===
+Naam: Panini Gebakken Kip 
+Beschrijving: Gebakken kip, kaas,bbq saus
+Tag: Panini's
+===
+Naam: Rijsttaartje
+Tag: Nagerechten
+===
+Naam: Frangipannetaartje
+Tag: Nagerechten
+===
+Naam: Mattentaartje
+Tag: Nagerechten
+===
+Naam: Appeltaartje
+Tag: Nagerechten
+===
+Naam: Donuts
+Tag: Nagerechten
+===
+Naam: Muffin
+Tag: Nagerechten
+===
+Naam: chocomouse
+Tag: Nagerechten
+===
+Naam: yoghurt aardbei
+Tag: Nagerechten
+===
+Naam: ontbijtmand
+Optie:[Hoeveelheid (pp):1p, 2p]
+Optie:[Type#Ontbijtmand:Standaard,Familie, VIP, Luxe]
+Tag: Ontbijtmanden
+===
+Naam: Mini blik
+Optie:[Type#drank-mini-blik:cola, cola-light, cola zero]
+Tag: Dranken
+===
+Naam: Blik
+Optie:[Type#drank-blik:cola, cola-zero, cola-light,fanta,sprite,ice-tea,ice-tea zero, ice-tea green,gini,agrum,tonic,red bull, jupiler]
+Tag: Dranken
+===
+Naam: Fles 1/2 liter
+Optie:[Type#drank-fles-1/2: cola, cola-light, cola zero, aquarius, plat water, bruis water]
+Tag: Dranken
+===
+Naam: Flesje
+Optie:[Type#drank-flesje: minute-maid, looza ace, cécémel, fristi]
+Tag: Dranken
+===
+Naam: Flesje ( 33 cl)
+Optie:[Type#drank-flesje ( 33 cl): plat water, bruisend water]
+Tag: Dranken
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Standaard
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Familie
+Beschrijving: stokbroodje, sandwich, 3 mini boterkoeken, kaas, h...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: VIP
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Luxe
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
