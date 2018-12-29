@@ -1,3 +1,37 @@
+[Optie]
+Naam: Brood
+Waarden: Sandwich, Mini, Midi, Maxi
+===
+[Optie]
+Naam:Grootte
+Voorwaarde: [Brood:Sandwich]
+Waarden: Wit
+===
+[Optie]
+Naam: Grootte
+Voorwaarde: [Brood: Mini, Midi, Maxi]
+Waarden: Wit, Lichtbruin, Waldkorn
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Standaard
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Familie
+Beschrijving: stokbroodje, sandwich, 3 mini boterkoeken, kaas, h...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: VIP
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
+===
+[Optie]
+Naam: Type-Ontbijtmand
+Optie: Luxe
+Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
+===
 Naam: Kaas
 Optie[Brood:*]
 Optie:[Kaas:jong,Brie,Camembert]
@@ -489,36 +523,3 @@ Naam: Flesje ( 33 cl)
 Optie:[Type#drank-flesje ( 33 cl): plat water, bruisend water]
 Tag: Dranken
 ===
-[Optie]
-Naam: Brood
-Waarden: Sandwich, Mini, Midi, Maxi
-===
-[Optie]
-Naam:Grootte
-Voorwaarde: [Brood:Sandwich]
-Waarden: Wit
-===
-[Optie]
-Naam: Grootte
-Voorwaarde: [Brood: Mini, Midi, Maxi]
-Waarden: Wit, Lichtbruin, Waldkorn
-===
-[Optie]
-Naam: Type-Ontbijtmand
-Optie: Standaard
-Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
-===
-[Optie]
-Naam: Type-Ontbijtmand
-Optie: Familie
-Beschrijving: stokbroodje, sandwich, 3 mini boterkoeken, kaas, h...
-===
-[Optie]
-Naam: Type-Ontbijtmand
-Optie: VIP
-Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
-===
-[Optie]
-Naam: Type-Ontbijtmand
-Optie: Luxe
-Beschrijving: stokbroodje, sandwich, chocoladebroodje, croissant...
